@@ -1,6 +1,14 @@
 <h1 align="center">Guia Simplificado HTML5</h1>
 
-## Estrutura básica HTML
+<p align="center">
+<a href="#estrutura">Estrutura Básica</a> • <a href="#estilos">Estilos e semântica</a> • <a href="#listas">Listas</a> • <a href="#formseinputs">Forms e Inputs</a>
+</p>
+
+##
+
+<div id="estrutura">
+  
+## Estrutura Básica
 
 * Define o tipo de documento `<!DOCTYPE>`
 
@@ -18,7 +26,11 @@
 
 * Insere um quebra de linha `<br>`
 
-## Estilos e semântica
+</div>
+
+<div id="estilos">
+  
+## Estilos e Semântica
 
 * Incluir código CSS `<style>`
 
@@ -36,6 +48,28 @@
 
 * Conteúdo independente do resto da página `<article>`
 
+</div>
+
+<div id="listas">
+ 
+## Listas
+
+* Define uma lista desordenada `<ul>`
+
+* Define uma lista ordenada `<ol>`
+
+* Define um intem da lista `<li>`
+
+* Define uma descrição para lista `<dl>`
+
+* Define um termo `<dt>`
+
+* Define uma descrição de termo `<dd>`
+  
+</div> 
+
+<div id="formseinputs">  
+  
 ## Forms e inputs
 
 * Criar um formulário `<form>`
@@ -56,25 +90,4 @@
 
 * Define uma imagem de mapa `<map>`
 
-## Listas
-
-* Define uma lista desordenada `<ul>`
-
-* Define uma lista ordenada `<ol>`
-
-* Define um intem da lista `<li>`
-
-* Define uma descrição para lista `<dl>`
-
-* Define um termo `<dt>`
-
-* Define uma descrição de termo `<dd>`
-
-
-
-
-
-
-
-
-
+</div> 
