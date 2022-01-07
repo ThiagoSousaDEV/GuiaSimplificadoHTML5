@@ -1,7 +1,7 @@
 <h1 align="center">Guia Simplificado HTML5</h1>
 
 <p align="center">
-<a href="#estrutura">Estrutura Básica</a> • <a href="#estilos">Estilos e semântica</a> • <a href="#listas">Listas</a> • <a href="#formseinputs">Forms e Inputs</a>
+<a href="#estrutura">Estrutura Básica</a> • <a href="#estilos">Estilos e Semântica</a> • <a href="#listas">Listas</a> • <a href="#formseinputs">Forms e Inputs</a>
 </p>
 
 ##
