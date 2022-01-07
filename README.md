@@ -89,5 +89,17 @@
 * Define uma imagem `<img>`
 
 * Define uma imagem de mapa `<map>`
+  
+* Marca uma área dentro de uma umagem `<area>`
+
+* Usada para desenhar elementos específicos através de script `<canvas>`
+  
+* Define uma legenda a uma figura ou ilustração da tag `<figure>` `<figcaption>`
+ 
+* Marca diagramas, ilustrações... isolados do fluxo central do documento `<figure>`
+  
+* Define um container para especificar múltiplos elementos `<source>` para um `<img>` contido nele `<picture>`
+
+* Conteúdo em negrito `<b>`  
 
 </div> 
