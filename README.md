@@ -100,6 +100,18 @@
   
 * Define um container para especificar múltiplos elementos `<source>` para um `<img>` contido nele `<picture>`
 
-* Conteúdo em negrito `<b>`  
+* Conteúdo em negrito `<b>`
+  
+* Define que o texto é uma citação `<blockquote>`
+ 
+* Define uma ênfase importante no conteúdo `<em>`
+  
+* Define que uma parte do texto é destacada do restante `<i>`
+  
+* Utilizada em conteúdos de grande importância `<strong>`
+  
+* Define o texto subscrito `<sub>` ou `<sup>`
+  
+* Define um tempo específico ou uma data `<time`
 
 </div> 
